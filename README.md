@@ -1,6 +1,7 @@
 # Lab n8n — Tutoriels Markdown et vidéos commentées
 
 Six étapes pour construire un diagnostic Nginx avec n8n, Ollama et deux outils appelant des sous-workflows.
+![Schéma du Lab](images/ArchiLabN8N.jpg)
 
 [Consulter le tutoriel intégral](Tutoriel-complet.md)
 

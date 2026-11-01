@@ -1,6 +1,10 @@
-# Lab n8n — Tutoriels Markdown et vidéos commentées
+# Lab n8n — Initiation à la création d'un agent IA avec N8N
+# Carrefour Métier GRN164 Montpellier/Saint jean de Vedas
 
 Six étapes pour construire un diagnostic Nginx avec n8n, Ollama et deux outils appelant des sous-workflows.
+Ce lab ne couvre pas l'installation de N8N et Ollama
+Schéma du LAB.
+
 ![Schéma du Lab](images/ArchiLabN8N.jpg)
 
 [Consulter le tutoriel intégral](Tutoriel-complet.md)

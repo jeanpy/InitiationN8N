@@ -1,5 +1,6 @@
 # Lab n8n — Initiation à la création d'un agent IA avec N8N
-# Carrefour Métier GRN164 Montpellier/Saint jean de Vedas
+# L'ensemble du contenu et mise en forme est généré par IA à partir d'une capture Video sans commentaire.
+
 
 Six étapes pour construire un diagnostic Nginx avec n8n, Ollama et deux outils appelant des sous-workflows.
 Ce lab ne couvre pas l'installation de N8N et Ollama

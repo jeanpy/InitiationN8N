@@ -399,6 +399,11 @@ systemctl status nginx
 ![Point d’arrêt : prompt à compléter](images/Etape-06-03.png)
 
 *Capture à 01:30 dans la vidéo de cette étape (source complète : 15:08).*
+Réponds de manière courte et technique.
+
+**À retenir :** La vidéo ne montre ni prompt final ni diagnostic autonome complet. Les tests futurs devront distinguer : serveur disponible, service arrêté, absence de réponse ICMP et échec de connexion SSH.
+
+**Validation :** reproduire les manipulations et examiner les données retournées avant de passer à l’étape suivante.
 
 ## Exemple de prompt
 Tu es un agent IA chargé d’aider à diagnostiquer un serveur Nginx.
@@ -421,9 +426,5 @@ propose une action simple à l’administrateur.
 
 Ne suppose pas le résultat d’un outil sans l’avoir utilisé.
 
-Réponds de manière courte et technique.
 
-**À retenir :** La vidéo ne montre ni prompt final ni diagnostic autonome complet. Les tests futurs devront distinguer : serveur disponible, service arrêté, absence de réponse ICMP et échec de connexion SSH.
-
-**Validation :** reproduire les manipulations et examiner les données retournées avant de passer à l’étape suivante.
 
